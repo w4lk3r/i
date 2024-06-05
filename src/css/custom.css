@@ -28,3 +28,48 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.header-linkedin-link::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background-color: var(--ifm-navbar-link-color);
+  mask-image: url('../../static/img/linkedin.svg');
+  transition: background-color var(--ifm-transition-fast)
+    var(--ifm-transition-timing-default);
+}
+
+.header-linkedin-link:hover::before {
+  background-color: var(--ifm-navbar-link-hover-color);
+}
+
+.header-github-link::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background-color: var(--ifm-navbar-link-color);
+  mask-image: url('../../static/img/github.svg');
+  transition: background-color var(--ifm-transition-fast)
+    var(--ifm-transition-timing-default);
+}
+
+.header-github-link:hover::before {
+  background-color: var(--ifm-navbar-link-hover-color);
+}
+
+.header-leetcode-link::before {
+  content: '';
+  width: 24px;
+  height: 24px;
+  display: flex;
+  background-color: var(--ifm-navbar-link-color);
+  mask-image: url('../../static/img/leetcode.svg');
+  transition: background-color var(--ifm-transition-fast)
+    var(--ifm-transition-timing-default);
+}
+
+.header-leetcode-link:hover::before {
+  background-color: var(--ifm-navbar-link-hover-color);
+}
