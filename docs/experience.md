@@ -4,10 +4,6 @@ sidebar_position: 2
 
 # Experience
 
-## Brief Intro
-
-Highly experienced developer with over 15 years of experience in China, specializing in mobile development. Over the past three years, I have successfully worked on cross-platform projects using Flutter. As the primary developer on several projects, I excel at faithfully replicating UI designs and writing robust, maintainable code. I aim to deliver high-quality technical solutions that enhance business operations and drive growth.
-
 
 ## Education Experience
 
