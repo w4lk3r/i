@@ -73,3 +73,5 @@
 .header-leetcode-link:hover::before {
   background-color: var(--ifm-navbar-link-hover-color);
 }
+
+img[alt=screenshot] { width: 150px; }

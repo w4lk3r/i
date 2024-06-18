@@ -15,55 +15,32 @@ sidebar_position: 1
 | LeetCode | https://leetcode.com/u/wangkane |
 
 ## Dev Experiences
-- Android:
-  - Flutter
-  - Java/Kotlin
-- iOS/iPadOS:
-  - Flutter
-- Web:
-  - DartWeb
-  - FlutterWeb
-- Linux/MacOS/Windows:
-  - Flutter
-- Server:
-  - DartServer
-- OS/390:
-  - COBOL
+| Platform | Framework |
+|----------|----------|
+| Android | Flutter、Java/Kotlin |
+| iOS/iPadOS | Flutter |
+| Web | DartWeb、FlutterWeb |
+| Linux/MacOS/Windows | Flutter |
+| Server | DartServer |
+| OS/390 | COBOL |
 
 ## Dev Skills
-- Technology Stack:
-  - Native Android Development
-  - Flutter Development
-  - Native Development
-- Language:
-  - Java
-  - Dart
-  - C
-- Database:
-  - SQLite
-  - MySQL
-- SCM:
-  - Git
+| Category | Content |
+|----------|----------|
+| Technology Stack | Native Android Development<br/>Flutter Development<br/>Native Development |
+| Language | Java、Dart、C |
+| Web | DartWeb、FlutterWeb |
+| Database | SQLite、MySQL |
+| SCM | Git |
 
 ## Other Skills
-- Agile Framework
-  - Kanban
-  - Scrum
-- Team Collaboration Tools
-  - Confluence
-  - JIRA
-  - Crucible
-- DevOps tools
-  - Gradle, Maven
-  - GitHub, Gitlab, Bitbucket
-  - Jenkins
-- Server Administration
-  - Linux
-  - Docker
-- Web Security Knowledge
-  - DDOS
-  - SQL injection
-  - XSS
+| Category | Content |
+|----------|----------|
+| Agile Framework | Kanban、Scrum |
+| Team Collaboration Tools | Confluence、JIRA、Crucible |
+| DevOps tools | Gradle, Maven<br/>GitHub, Gitlab, Bitbucket<br/>Jenkins |
+| Server Administration | Linux、Docker |
+| Web Security Knowledge | DDOS、SQL injection、XSS |
 
 ## Hobbies
 

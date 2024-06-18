@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Kane\'s Site',
+  title: 'Kane\'s Personal Site',
   tagline: 'All information about Kane~',
   favicon: 'img/favicon.ico',
 
@@ -33,15 +33,14 @@ const config: Config = {
     [
       'classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-        },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
+        docs: {
+          sidebarPath: './sidebars.ts',
+        },
+        blog: false,
+        sitemap: false,
       } satisfies Preset.Options,
     ],
   ],
@@ -52,7 +51,7 @@ const config: Config = {
     navbar: {
       title: 'Kane\'s Site',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Kane\'s Site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -61,6 +60,17 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Resume',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'showcase',
+          position: 'left',
+          label: 'Showcase',
+        },
+        {
+          href: 'https://tools.wangkang.tech/',
+          position: 'left',
+          label: 'Tools',
         },
         {
           href: 'https://www.linkedin.com/in/wangkane/',
@@ -86,8 +96,20 @@ const config: Config = {
           title: 'Navigator',
           items: [
             {
+              label: 'Home',
+              to: '/',
+            },
+            {
               label: 'Resume',
               to: '/docs/information',
+            },
+            {
+              label: 'Major Apps',
+              to: '/docs/showcase/list',
+            },
+            {
+              label: 'Tools',
+              href: 'https://tools.wangkang.tech/',
             },
           ],
         },
@@ -134,7 +156,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Kane's Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kane's Personal Site`,
     },
     prism: {
       theme: prismThemes.github,
