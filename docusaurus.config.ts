@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Kane\'s Personal Site',
-  tagline: 'All information about Kane~',
+  tagline: 'Important information about myself~',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -93,7 +93,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Navigator',
+          title: 'Site Map',
           items: [
             {
               label: 'Home',
@@ -146,11 +146,11 @@ const config: Config = {
               href: 'https://www.meituan.com/en-US/about-us',
             },
             {
-              label: '美团网（中文）',
+              label: 'meituan.com (Chinese)',
               href: 'https://www.meituan.com/',
             },
             {
-              label: '大众点评网（中文）',
+              label: 'dianping.com (Chinese)',
               href: 'https://www.dianping.com/',
             },
           ],

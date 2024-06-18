@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        A record of each educational and work experience, detailing the content and responsibilities.
+        Records of each educational and work experience, detailing the content and responsibilities.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        A brief introduction of major projects, including background, technical challenges, and implementation solutions.
+        Brief introductions of major projects, including background, technical challenges, and implementation solutions.
       </>
     ),
   },
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        A showcase of the technologies mastered and the proficiency level for each.
+        Showcases of the technologies mastered and the proficiency level for each.
       </>
     ),
   },

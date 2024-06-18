@@ -20,7 +20,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/information">
-            View Resume 📰
+            View Online Resume 🌐
+          </Link>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="/file/Resume_Kane_20240520_02.pdf"
+            target="_blank"
+            download="Resume_Kane_20240520.pdf">
+            Download PDF Resume ↓
           </Link>
         </div>
       </div>
