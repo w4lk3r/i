@@ -24,8 +24,8 @@ sidebar_position: 3
 - **Intro**: My team was responsible for the food channel in Meituan and Dianping. Given our monthly active users and order volume exceeding hundreds of millions, optimizing the performance and reliability of our channel was crucial.
 - **Platform**: Android, iOS, Web
 - **Challenges**:
-  - aaa: 
-  - bbb:
+  - **Regional differences**: Performance or availability issues may suddenly occur for some users due to differences in regions, networks, or phone models. 
+  - **Business loss**: Performance or availability issues during peak business periods can lead to significant revenue loss.
 - **Solutions**:
   - **Monitoring Capabilities**: Implemented module-level and page-level data loading monitoring to collect information and provide early warnings for performance and availability issues.
   - **Degradation Capabilities**: Developed module-level and page-level functional degradation mechanisms to ensure high availability of services.
