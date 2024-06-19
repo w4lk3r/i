@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Kane\'s Personal Site',
-  tagline: 'Important information about myself~',
+  tagline: 'Important informations about myself~',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

@@ -75,3 +75,5 @@
 }
 
 img[alt=screenshot] { width: 150px; }
+
+img[alt=app_icon] { width: 72px; }
