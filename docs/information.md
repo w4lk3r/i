@@ -28,13 +28,13 @@ Highly experienced developer with over 15 years of experience in China, speciali
 | OS/390 | COBOL |
 
 ## Dev Skills
-| Category | Content |
-|----------|----------|
-| Technology Stack | Native Android Development<br/>Flutter Development<br/>Native Development |
-| Language | Java、Dart、C |
-| Web | DartWeb、FlutterWeb |
-| Database | SQLite、MySQL |
-| SCM | Git |
+| Category | Content | Proficiency |
+|----------|----------|----------|
+| Technology Stack | Native Android Development<br/>Flutter Development<br/>Native Development | <font color='green'>▊▊▊▊</font><font color='gray'>▊</font><br/><font color='green'>▊▊▊▊</font><font color='gray'>▊</font><br/><font color='green'>▊</font><font color='gray'>▊▊▊▊</font> |
+| Language | Java<br/>Dart<br/>C | <font color='green'>▊▊▊▊</font><font color='gray'>▊</font><br/><font color='green'>▊▊▊▊</font><font color='gray'>▊</font><br/><font color='green'>▊</font><font color='gray'>▊▊▊▊</font> |
+| Web | DartWeb<br/>FlutterWeb | <font color='green'>▊▊</font><font color='gray'>▊▊▊</font><br/><font color='green'>▊▊▊</font><font color='gray'>▊▊</font> |
+| Database | SQLite<br/>MySQL | <font color='green'>▊▊▊▊</font><font color='gray'>▊</font><br/><font color='green'>▊▊</font><font color='gray'>▊▊▊</font> |
+| SCM | Git | <font color='green'>▊▊▊▊</font><font color='gray'>▊</font> |
 
 ## Other Skills
 | Category | Content |
