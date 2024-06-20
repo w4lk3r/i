@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Music Apps in Xihang
 
+## Music Apps
+
 | App | Screenshot | Platform | Note |
 |----------|----------|----------|----------|
 | Laiyin Practice<br/>来音练琴 | ![screenshot](/img/apps_01_01.jpeg) ![screenshot](/img/apps_01_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.partnertrainingstudent)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%9D%A5%E9%9F%B3%E7%BB%83%E7%90%B4-%E5%85%A8%E4%B9%90%E5%99%A8%E9%99%AA%E7%BB%83%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0/id1561951965) | Language: Swift/Kotlin |
@@ -11,3 +13,10 @@ sidebar_position: 2
 | KnowRhythm<br/>懂音律 | ![screenshot](/img/apps_03_01.jpeg) ![screenshot](/img/apps_03_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.konwrhythm)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%87%82%E9%9F%B3%E5%BE%8B-%E9%92%A2%E7%90%B4%E5%90%89%E4%BB%96%E8%B0%B1%E5%85%B1%E4%BA%AB%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0/id1510270439) | Flutter & Swift/Kotlin |
 | Laiyin Piano<br/>来音钢琴 | ![screenshot](/img/apps_04_01.jpeg) ![screenshot](/img/apps_04_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.piano)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%9D%A5%E9%9F%B3%E9%92%A2%E7%90%B4-%E5%AD%A6%E9%92%A2%E7%90%B4%E6%89%BE%E8%B0%B1%E7%BB%83%E7%90%B4%E5%BC%B9%E7%90%B4%E8%BD%AF%E4%BB%B6-%E9%92%A2%E7%90%B4%E9%94%AE%E7%9B%98/id1523632955) | Language: Flutter & Swift/Kotlin |
 | Laiyin Score Editing<br/>来音制谱 | ![screenshot](/img/apps_05_01.jpeg) ![screenshot](/img/apps_05_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.editscore)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%9D%A5%E9%9F%B3%E5%88%B6%E8%B0%B1-sheet-music-editing/id6450210894) | Language: Flutter |
+
+
+## Laiyin Smart Music Score
+
+import IframeWindow from '@site/src/components/BrowserWindow/IframeWindow';
+
+<IframeWindow url="https://scoreweb.quthing.com/#/url?bpm=120&canTranslate=true&scoreUrl=https%3A%2F%2Fmis-api.quthing.com%2Frest%2Frhythm%2Fmusicscore%2Fsmartscore%2Fdata%2F568369%3Fversion%3D2.5.0" height="1000px" />
