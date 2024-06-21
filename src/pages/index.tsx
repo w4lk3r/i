@@ -18,13 +18,12 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className="button button--secondary button--lg button-secondary-margin"
             to="/docs/information">
             → View Online Resume
           </Link>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <Link
-            className="button button--secondary button--lg"
+            className="button button--secondary button--lg button-secondary-margin"
             to="/file/Resume_Kane_20240520_02.pdf"
             target="_blank"
             download="Resume_Kane_20240520.pdf">
