@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Music Apps
 
-| App | Screenshot | Platform | Note |
+| App | Screenshot | Links | Note |
 |----------|----------|----------|----------|
 | Laiyin Practice<br/>来音练琴 | ![screenshot](/img/apps_01_01.jpeg) ![screenshot](/img/apps_01_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.partnertrainingstudent)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%9D%A5%E9%9F%B3%E7%BB%83%E7%90%B4-%E5%85%A8%E4%B9%90%E5%99%A8%E9%99%AA%E7%BB%83%E6%95%99%E5%AD%A6%E5%B9%B3%E5%8F%B0/id1561951965) | Language: Swift/Kotlin |
 | Laiyin AI Practice<br/>来音智能陪练 | ![screenshot](/img/apps_02_01.jpeg) ![screenshot](/img/apps_02_02.jpeg) | [Android](https://play.google.com/store/apps/details?id=com.xihang.partnertrainingai)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%9D%A5%E9%9F%B3%E6%99%BA%E8%83%BD%E9%99%AA%E7%BB%83-%E9%92%A2%E7%90%B4%E5%B0%8F%E6%8F%90%E7%90%B4%E7%BB%83%E7%90%B4%E5%AE%9E%E6%97%B6%E7%BA%A0%E9%94%99%E6%89%93%E5%88%86/id1580896775) | Language: Flutter & Swift/Kotlin |

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Other Apps in Xihang
 
-| App | Screenshot | Platform | Note |
+| App | Screenshot | Links | Note |
 |----------|----------|----------|----------|
 | Constant Guard<br/>时刻守护 | ![screenshot](/img/apps_11_01.jpeg) ![screenshot](/img/apps_11_02.jpeg) | [Android](https://apkpure.com/cn/shi-ke-shou-hu/com.xihang.sksh)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/%E6%97%B6%E5%88%BB%E5%AE%88%E6%8A%A4-%E6%83%85%E4%BE%A3%E5%AE%B6%E5%BA%AD%E6%89%8B%E6%9C%BA%E5%AE%9A%E4%BD%8D%E5%99%A8%E5%AE%9E%E6%97%B6gps/id1451287165) | Language: Swift/Kotlin |
 | Inspired FootPrint<br/>灵感足迹 | ![screenshot](/img/apps_12_01.jpeg) ![screenshot](/img/apps_12_02.jpeg) | [Android](https://apkpure.com/cn/zu-ji/com.xihang.footprint)<br/>[iOS/iPadOS](https://apps.apple.com/us/app/footprint-record-travel-tracks/id1539411511) | Language: Swift/Kotlin |
