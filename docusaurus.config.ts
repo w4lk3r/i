@@ -68,7 +68,7 @@ const config: Config = {
           label: 'Showcase',
         },
         {
-          href: 'https://tools.wangkang.tech/',
+          href: 'http://tools.wangkang.tech/',
           position: 'left',
           label: 'Tools',
         },
@@ -109,7 +109,7 @@ const config: Config = {
             },
             {
               label: 'Tools',
-              href: 'https://tools.wangkang.tech/',
+              href: 'http://tools.wangkang.tech/',
             },
           ],
         },
