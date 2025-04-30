@@ -24,9 +24,9 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg button-secondary-margin"
-            to="/file/Resume_Kane_20240520_02.pdf"
+            to="/file/Resume_Kane_20240703_02.pdf"
             target="_blank"
-            download="Resume_Kane_20240520.pdf">
+            download="Resume_Kane_20240703.pdf">
             ⤓ Download PDF Resume
           </Link>
         </div>
